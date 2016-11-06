@@ -7,10 +7,10 @@ public class Main {
 		displayGreeting();
 		data.display();
 	}
-	
 	private static void displayGreeting(){
 		System.out.println("Hello Happy Sales People!");
 		System.out.println("This App Shows Sales Data");
+		
+		System.out.println("Test1");
 	}
-
 }
